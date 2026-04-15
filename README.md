@@ -67,3 +67,4 @@ The goal was to classify customer reviews into:
 * Training time was significantly longer for deep learning models
 
 ---
+Implementation included Python, Pandas, Scikit-learn, HuggingFace Transformers, and PyTorch
